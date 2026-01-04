@@ -1,5 +1,5 @@
 # 💫 About Me:
-zelalem Legesse
+I work by turning ideas into clear, well-structured projects and improving them through iteration. I value consistency, thoughtful problem-solving, and a steady workflow from planning to execution. If you’d like to connect or collaborate, you can reach me at zlegesse9@gmail.com .
 
 
 # 💻 Tech Stack:
